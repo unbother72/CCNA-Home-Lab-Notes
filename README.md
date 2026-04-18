@@ -11,7 +11,7 @@ This repository documents my beginner-level CCNA and networking practice as part
 
 ## Planned topics
 - IP addressing
-- Router vs switch
+- Router vs Switch
 - DNS and DHCP
 - NAT
 - OSI model
